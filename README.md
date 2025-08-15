@@ -1,0 +1,2 @@
+# construction_enterprise_list_generator
+針對行政院公共羹成金質獎得獎名單之文件，進行建築類獲獎營造廠選取，並產生出.txt檔。方便低碳建築的優良營造廠加分作業
