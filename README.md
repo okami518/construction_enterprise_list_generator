@@ -8,4 +8,5 @@
 ## 系統需求
 - macOS 或 Linux
 - Python 3.8 以上
+- tkinter
 - pdfplumber>=0.11.0
